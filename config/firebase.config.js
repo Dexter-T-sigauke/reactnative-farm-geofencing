@@ -18,3 +18,5 @@ const firebaseAuth = getAuth(app);
 const firestoreDB = getFirestore(app)
 
 export { app, firebaseAuth, firestoreDB };
+
+
